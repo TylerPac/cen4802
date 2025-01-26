@@ -1,4 +1,7 @@
-/**
+
+ package main.java;
+
+ /**
  * The Fibonacci class provides a method to compute the nth term of the Fibonacci sequence
  * using a recursive approach.
  * The Fibonacci sequence is defined as follows:
